@@ -37,7 +37,7 @@ HTML = """
 
 <div class="card">
     <h1>🚀 CI/CD Demo project: Application Deployment </h1>
-    <h2>Version 5</h2>
+    <h2>Version 6</h2>
 
     <p>Successfully deployed by Debdip Ghosh:</p>
 
@@ -49,7 +49,7 @@ HTML = """
 </div>
 
 <div class="footer">
-    Created by Debdip Ghosh
+    Created by Sonam Kumari
 </div>
 
 </body>
